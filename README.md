@@ -1,4 +1,4 @@
-#Sistema de inventarios 
+# Sistema de inventarios 
 Este proyecto es una aplicación web
 ## Instalación
 1. Clona este repositorio.
